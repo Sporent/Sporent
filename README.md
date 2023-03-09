@@ -1,3 +1,3 @@
--  I’m @Sporent :moyai:
+-  I’m Sporent :moyai:
 -  Reach out to me at Sporent#0624 :placard:
 -  Currently learning java :hotsprings:
