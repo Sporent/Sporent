@@ -1,5 +1,10 @@
-###  I’m Sporent o/
->  you can reach out to me at Sporent#0624
+##  I’m Sporent o/
+```
+### You can contact/follow me here:
+-  [sporent] on discord
+-  [@sporent1](https://twitter.com/Sporent1) on twitter
+-  [@sporent](https://www.youtube.com/channel/UCaHBfuQrQZTXg-96FfLDsDA) on youtube
+```
 ## **TODO**
 ```
 -  learn java syntax ✅
