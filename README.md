@@ -9,6 +9,6 @@ You can contact/follow me here:
 ```
 -  learn java syntax ✅
 -  learn (java)OOP ✅
--  learn fabric modding
+-  learn fabric API
 -  create/publish first Minecraft mod
 ```
